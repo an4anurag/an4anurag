@@ -13,7 +13,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/n-anurag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn.com" height="30" width="40" /></a>
   <a href="https://twitter.com/anurag_niraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/elhani__293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/anurag.niraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com" height="30" width="40" /></a>
   <a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/" height="30" width="40" /></a>
 </p>
 
