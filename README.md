@@ -38,6 +38,20 @@ Unlocking Potential. One Mind at a Time - A Journey Towards Societal Transformat
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,vscode,js,html,css,mysql,docker,linux,pytorch,tensorflow)](https://skillicons.dev)
 
+<!--## ⛓️ Social-->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Social
+<p align="left">
+  <a href="https://www.linkedin.com/in/n-anurag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn.com" height="30" width="40" /></a>
+  <a href="https://https://github.com/anuragniraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="www.github.com" height="30" width="40" /></a>
+  <a href="https://leetcode.com/a4anurag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="leetcode.com" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/anuragniraj" target="blank"><img align="center" src="https://github.com/tuomastik/icons/blob/master/kaggle_logo/kaggle_logo_blue_512x512.svg" alt="anurag Kaggel" height="40" width="40" /></a>
+  <a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-overflow.com" height="30" width="40" /></a>
+  <a href="https://twitter.com/anurag_niraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com" height="30" width="40" /></a>
+  <a href="https://www.reddit.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="www.youtube.com/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/anurag.niraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com" height="30" width="40" /></a>
+  <a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/" height="30" width="40" /></a>
+</p>
+
 ## My Github Status
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anuragniraj)](https://git.io/streak-stats)
