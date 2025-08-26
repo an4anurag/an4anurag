@@ -21,7 +21,7 @@ Along with I am efficient coder having a good understading of Data Structure and
 
 
 - 🌏 I'm based in Bengaluru, India
-- 💻 See my portfolio at <a href="https://spaces.w3schools.com/space/anuragniraj/editor" target="blank">My Personal Website</a>
+- 💻 See my portfolio at <a href="https://an4anurag.github.io/profile/" target="blank">My Personal Website</a>
   
 - ✉️ You can reach out to me at anuragniraj1505@gmail.com
 - 🌱 I’m currently learning Deep Learning and Neural Networks.
@@ -54,7 +54,7 @@ Unlocking Potential. One Mind at a Time - A Journey Towards Societal Transformat
 
 ## My Github Status
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anuragniraj)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=an4anurag)](https://git.io/streak-stats)
 
 <!--
 **anuragniraj/anuragniraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
