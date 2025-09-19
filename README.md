@@ -21,7 +21,7 @@ Along with I am efficient coder having a good understading of Data Structure and
 
 
 - 🌏 I'm based in Bengaluru, India
-- 💻 See my portfolio at <a href="https://an4anurag.github.io/profile/" target="blank">My Personal Website</a>
+- 💻 See my portfolio at <a href="https://an4anurag.netlify.app/" target="blank">My Personal Website</a>
   
 - ✉️ You can reach out to me at anuragniraj1505@gmail.com
 - 🌱 I’m currently learning Deep Learning and Neural Networks.
